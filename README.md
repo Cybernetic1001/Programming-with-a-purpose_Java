@@ -1,2 +1,2 @@
 # Programming-with-a-purpose_Java
-Coursera Course 
+Class on Coursera taught by Kevin Wayne and Robert Sedgewick
