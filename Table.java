@@ -11,7 +11,7 @@ public class Table {
         }
 
         for (int i = 0; i < N; i++) {
-            System.out.println(Arrays.toString(resultMatrix[i]));
+            System.out.println(Arrays.toString(resultMatrix[i]);
         }
     }
 } // create nxn matrix initialized with all zeros
